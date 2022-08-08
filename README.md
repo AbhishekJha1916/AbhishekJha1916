@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn.dribbble.com/users/623144/screenshots/1679518/igloo-illustration-development.gif)]
+[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif])(https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Abhishek Kumar Jha</h1>
 <h3 align="center">A passionate graphic designer and frontend developer from India</h3>
 
@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **web development projects**
 
-- 🌱 I’m currently learning **Data Science and Backend Frameworks**
+- 🌱 I’m currently learning **Data Science, Android Development and Backend Frameworks**
 
 - 📫 How to reach me **akjha418@gmail.com**
 
