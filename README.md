@@ -55,7 +55,11 @@ Fashion eCommerce platform developed using the MERN stack with responsive produc
 Psychological horror game branding and immersive UI/UX experience project.
 
 📈 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhishekjha1916&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekjha1916&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180"/> </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abhishekjha1916&show_icons=true&theme=tokyonight&hide_border=true" height="180em" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekjha1916&layout=compact&theme=tokyonight&hide_border=true" height="180em" />
+</p>
 🔥 Contribution Streak
 <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekjha1916&theme=tokyonight&hide_border=true&background=0D1117"/> </p>
 🌐 Connect With Me
