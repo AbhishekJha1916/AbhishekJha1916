@@ -1,5 +1,5 @@
 <!-- ========================================= -->
-![MasterHead](<img width="1774" height="887" alt="Banner" src="https://github.com/user-attachments/assets/f438b844-f2c6-4791-8c49-d4604db56f6d" />)
+(<img width="1774" height="887" alt="Banner" src="https://github.com/user-attachments/assets/f438b844-f2c6-4791-8c49-d4604db56f6d" />)
 <!-- ========================================= -->
 
 <p align="center">
