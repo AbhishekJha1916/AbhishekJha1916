@@ -1,8 +1,4 @@
 <img width="1774" height="887" alt="Banner" src="https://github.com/user-attachments/assets/f438b844-f2c6-4791-8c49-d4604db56f6d" />
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6C3BFF&height=220&section=header&text=Abhishek%20Kumar%20Jha&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Creative%20Technologist%20%7C%20Web%20Development%20%7C%20UI%2FUX&descAlignY=58&descAlign=50" />
-</p>
-
 <h1 align="center">Hi 👋, I'm Abhishek</h1>
 
 <h3 align="center">
