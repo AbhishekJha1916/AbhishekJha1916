@@ -59,4 +59,4 @@ Psychological horror game branding and immersive UI/UX experience project.
 🔥 Contribution Streak
 <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekjha1916&theme=tokyonight&hide_border=true&background=0D1117"/> </p>
 🌐 Connect With Me
-<p align="left"> <a href="https://linkedin.com/in/thisisabhishekjha" target="_blank"> <img src="https://skillicons.dev/icons?i=linkedin" /> </a> <a href="mailto:akjha418@gmail.com" target="_blank"> <img src="https://skillicons.dev/icons?i=gmail" /> </a> <a href="https://portfolio-teal.vercel.app/" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-6C3BFF?style=for-the-badge&logo=vercel&logoColor=white"/> </a> </p>
+<p align="left"> <a href="https://linkedin.com/in/thisisabhishekjha" target="_blank"> <img src="https://skillicons.dev/icons?i=linkedin" /> </a> <a href="mailto:akjha418@gmail.com" target="_blank"> <img src="https://skillicons.dev/icons?i=gmail" /> </a> <a href="https://potfolio-teal.vercel.app/" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-6C3BFF?style=for-the-badge&logo=vercel&logoColor=white"/> </a> </p>
