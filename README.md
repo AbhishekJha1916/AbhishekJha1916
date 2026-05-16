@@ -1,34 +1,75 @@
-![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
-<h1 align="center">Hi 👋, I'm Abhishek Kumar Jha</h1>
-<h3 align="center">A passionate graphic designer and frontend developer from India</h3>
+<!-- ========================================= -->
+![MasterHead](<img width="1774" height="887" alt="Banner" src="https://github.com/user-attachments/assets/f438b844-f2c6-4791-8c49-d4604db56f6d" />)
+<!-- ========================================= -->
 
-<img align="right" alt="Coding" width="400" src="https://149695847.v2.pressablecdn.com/wp-content/uploads/2018/12/developer-dribbble.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekjha1916&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekjha1916" /> </p>
-
-<p align="left"> <a href="https://twitter.com/abhishekjha1607" target="blank"><img src="https://img.shields.io/twitter/follow/abhishekjha1607?logo=twitter&style=for-the-badge" alt="abhishekjha1607" /></a> </p>
-
-- 🔭 I’m currently working on **web development projects**
-
-- 🌱 I’m currently learning **Data Science, Android Development and Backend Frameworks**
-
-- 📫 How to reach me **akjha418@gmail.com**
-
-- ⚡ Fun fact **I think I am funny**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/abhishekjha1607" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abhishekjha1607" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/thisisabhishekjha/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/thisisabhishekjha/" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/abhishekjha07" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/abhishekjha07" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/akjha418" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/akjha418" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6C3BFF&height=220&section=header&text=Abhishek%20Kumar%20Jha&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Creative%20Technologist%20%7C%20Web%20Development%20%7C%20UI%2FUX&descAlignY=58&descAlign=50" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+<h1 align="center">Hi 👋, I'm Abhishek</h1>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishekjha1916&show_icons=true&locale=en&layout=compact" alt="abhishekjha1916" /></p>
+<h3 align="center">
+Creative Technologist focused on building immersive digital experiences through development, UI/UX, and modern product design.
+</h3>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhishekjha1916&show_icons=true&locale=en" alt="abhishekjha1916" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekjha1916&" alt="abhishekjha1916" /></p>
+## 🚀 About Me
+
+I work at the intersection of:
+
+- 💻 Web Development
+- 🎨 UI/UX Design
+- ⚡ Creative Technology
+- 🧠 Product Experiences
+- 🎬 Motion & Visual Storytelling
+
+With a background in Computer Science and ongoing specialization in IC Design & Technology, I’ve gradually transitioned toward modern web technologies, frontend experiences, product systems, and creative digital ecosystems.
+
+I enjoy building products that combine:
+> technology + aesthetics + interaction.
+
+---
+
+## 🛠 Current Focus
+
+```txt
+• Modern Frontend Experiences
+• Real-Time Web Applications
+• Interactive UI Systems
+• Product-Oriented Development
+• Creative-Tech Projects
+• Immersive Digital Experiences
+
+⚙️ Tech Stack
+💻 Development
+<p align="left"> <img src="https://skillicons.dev/icons?i=react,javascript,nodejs,express,mongodb,tailwind,html,css,python,mysql" /> </p>
+🎨 Design & Creative Tools
+<p align="left"> <img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator,premiere" /> </p>
+🌟 Featured Projects
+🎵 Harmony Music Player
+
+Modern music streaming platform with immersive UI, playlist management, and real-time interactions.
+
+💬 Echo Chat Application
+
+Real-time chat system built using Socket.io with JWT authentication and group messaging functionality.
+
+🛒 CURVZ
+
+Fashion eCommerce platform developed using the MERN stack with responsive product experiences.
+
+🎮 FRACTURED (Upcoming Creative Project)
+
+Psychological horror game branding and immersive UI/UX experience project.
+
+📈 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhishekjha1916&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekjha1916&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180"/> </p>
+🔥 Contribution Streak
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekjha1916&theme=tokyonight&hide_border=true&background=0D1117"/> </p>
+🌐 Connect With Me
+<p align="left"> <a href="https://linkedin.com/in/thisisabhishekjha" target="_blank"> <img src="https://skillicons.dev/icons?i=linkedin" /> </a> <a href="mailto:akjha418@gmail.com" target="_blank"> <img src="https://skillicons.dev/icons?i=gmail" /> </a> <a href="https://portfolio-teal.vercel.app/" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-6C3BFF?style=for-the-badge&logo=vercel&logoColor=white"/> </a> </p>
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=6C3BFF&height=120&section=footer"/> </p> ```
+• Product-Oriented Development
+• Creative-Tech Projects
+• Immersive Digital Experiences
